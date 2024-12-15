@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Dec 14 10:45:09 2024
+# Process ID: 38096
+# Current directory: E:/fpga_proj/lab8/lab8.runs/synth_1
+# Command line: vivado.exe -log mips.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mips.tcl
+# Log file: E:/fpga_proj/lab8/lab8.runs/synth_1/mips.vds
+# Journal file: E:/fpga_proj/lab8/lab8.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mips.tcl -notrace

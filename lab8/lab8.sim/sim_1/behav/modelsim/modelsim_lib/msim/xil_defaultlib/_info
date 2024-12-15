@@ -1,0 +1,361 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/fpga_proj/lab8/lab8.sim/sim_1/behav/modelsim
+T_opt
+!s110 1734146079
+V4MZjEnLoM@J_QgJILkHOD2
+04 9 4 work mips_test fast 0
+04 4 4 work glbl fast 0
+=1-902e16b7679e-675cf81f-1cf-9f98
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+R0
+vALU
+!s10a 1734098466
+Z2 !s110 1734105110
+!i10b 1
+!s100 i3GTA>2JFa;BBUG[400PL3
+Ij2DHggIn_=h:EG?]mL;9g1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1734098466
+8../../../../lab8.srcs/sources_1/new/ALU.v
+F../../../../lab8.srcs/sources_1/new/ALU.v
+L0 2
+Z4 OL;L;10.7;67
+r1
+!s85 0
+31
+Z5 !s108 1734105110.000000
+Z6 !s107 ..\..\..\..\lab8.srcs\sources_1\new\mips_para.v|../../../../lab8.srcs/sim_1/new/mips_test.v|../../../../lab8.srcs/sources_1/new/signextend.v|../../../../lab8.srcs/sources_1/new/mips.v|../../../../lab8.srcs/sources_1/new/RM_DEC.v|../../../../lab8.srcs/sources_1/new/RF.v|../../../../lab8.srcs/sources_1/new/PC.v|../../../../lab8.srcs/sources_1/new/MUX2.v|../../../../lab8.srcs/sources_1/new/IM.v|../../../../lab8.srcs/sources_1/new/DM.v|../../../../lab8.srcs/sources_1/new/DEC.v|../../../../lab8.srcs/sources_1/new/CUT.v|../../../../lab8.srcs/sources_1/new/COMP.v|../../../../lab8.srcs/sources_1/new/ALU_DEC.v|../../../../lab8.srcs/sources_1/new/ALU.v|
+Z7 !s90 -incr|-mfcu|-work|xil_defaultlib|../../../../lab8.srcs/sources_1/new/ALU.v|../../../../lab8.srcs/sources_1/new/ALU_DEC.v|../../../../lab8.srcs/sources_1/new/COMP.v|../../../../lab8.srcs/sources_1/new/CUT.v|../../../../lab8.srcs/sources_1/new/DEC.v|../../../../lab8.srcs/sources_1/new/DM.v|../../../../lab8.srcs/sources_1/new/IM.v|../../../../lab8.srcs/sources_1/new/MUX2.v|../../../../lab8.srcs/sources_1/new/PC.v|../../../../lab8.srcs/sources_1/new/RF.v|../../../../lab8.srcs/sources_1/new/RM_DEC.v|../../../../lab8.srcs/sources_1/new/mips.v|../../../../lab8.srcs/sources_1/new/signextend.v|../../../../lab8.srcs/sim_1/new/mips_test.v|
+!i113 0
+Z8 o-mfcu -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vALU_DEC
+!s10a 1734101678
+R2
+!i10b 1
+!s100 k>8OGfj59OodhNKOoIel]1
+IzW<NZ]E1[LC<om<N;Ec?^2
+R3
+R0
+w1734101678
+8../../../../lab8.srcs/sources_1/new/ALU_DEC.v
+F../../../../lab8.srcs/sources_1/new/ALU_DEC.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@a@l@u_@d@e@c
+vCOMP
+!s10a 1734097703
+R2
+!i10b 1
+!s100 fVSbc^VJ_<HhnUGWB=S972
+IT1i8f]RH8ozXO`14`L:793
+R3
+R0
+w1734097703
+8../../../../lab8.srcs/sources_1/new/COMP.v
+F../../../../lab8.srcs/sources_1/new/COMP.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@c@o@m@p
+vCUT
+!s10a 1734099267
+R2
+!i10b 1
+!s100 4N<A5523<:<3:FnF;CS8;3
+I1no[gn<]OH7KZD4XeNNMQ0
+R3
+R0
+w1734099267
+8../../../../lab8.srcs/sources_1/new/CUT.v
+F../../../../lab8.srcs/sources_1/new/CUT.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@c@u@t
+vDEC
+!s10a 1734144093
+Z9 !s110 1734144879
+!i10b 1
+!s100 gO=BQNBTER9`03?lDz>g11
+IX1Ai_eE`NF@hKQI3:I3Bg3
+R3
+R0
+w1734144093
+8../../../../lab8.srcs/sources_1/new/DEC.v
+F../../../../lab8.srcs/sources_1/new/DEC.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z10 !s108 1734144878.000000
+Z11 !s107 ..\..\..\..\lab8.srcs\sources_1\new\mips_para.v|../../../../lab8.srcs/sim_1/new/mips_test.v|../../../../lab8.srcs/sources_1/new/signextend.v|../../../../lab8.srcs/sources_1/new/mips.v|../../../../lab8.srcs/sources_1/new/RM_DEC.v|../../../../lab8.srcs/sources_1/new/RF.v|../../../../lab8.srcs/sources_1/new/PC.v|../../../../lab8.srcs/sources_1/new/MUX2.v|../../../../lab8.srcs/sources_1/new/IM.v|../../../../lab8.srcs/sources_1/new/DM.v|../../../../lab8.srcs/sources_1/new/DEC.v|../../../../lab8.srcs/sources_1/new/COMP.v|../../../../lab8.srcs/sources_1/new/ALU_DEC.v|../../../../lab8.srcs/sources_1/new/ALU.v|
+Z12 !s90 -incr|-mfcu|-work|xil_defaultlib|../../../../lab8.srcs/sources_1/new/ALU.v|../../../../lab8.srcs/sources_1/new/ALU_DEC.v|../../../../lab8.srcs/sources_1/new/COMP.v|../../../../lab8.srcs/sources_1/new/DEC.v|../../../../lab8.srcs/sources_1/new/DM.v|../../../../lab8.srcs/sources_1/new/IM.v|../../../../lab8.srcs/sources_1/new/MUX2.v|../../../../lab8.srcs/sources_1/new/PC.v|../../../../lab8.srcs/sources_1/new/RF.v|../../../../lab8.srcs/sources_1/new/RM_DEC.v|../../../../lab8.srcs/sources_1/new/mips.v|../../../../lab8.srcs/sources_1/new/signextend.v|../../../../lab8.srcs/sim_1/new/mips_test.v|
+!i113 0
+R8
+R1
+n@d@e@c
+vDM
+!s10a 1734142158
+!s110 1734142291
+!i10b 1
+!s100 BDEinL7>_SL2=FFf[TPJm1
+I3C[<7Pz_@:8lLW]FoAD`63
+R3
+R0
+w1734142158
+8../../../../lab8.srcs/sources_1/new/DM.v
+F../../../../lab8.srcs/sources_1/new/DM.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1734142291.000000
+R6
+R7
+!i113 0
+R8
+R1
+n@d@m
+vextend
+!s10a 1734095799
+R2
+!i10b 1
+!s100 Ja@[jT<bXn:;CD0cUHG3<1
+Icd5dEC0V?O@OO4Fl^[;VH3
+R3
+R0
+w1734095799
+8../../../../lab8.srcs/sources_1/new/signextend.v
+F../../../../lab8.srcs/sources_1/new/signextend.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vglbl
+!s110 1734148880
+!i10b 1
+!s100 @[HMkmb2]nmXZkFLBbnEo1
+IF6YUPWP6l89IJ<i^JTJ8O3
+R3
+R0
+w1623370582
+8glbl.v
+Fglbl.v
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1734148880.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vIM
+!s10a 1734146066
+!s110 1734146072
+!i10b 1
+!s100 MBFcV`dWz7Gjai4`iAdd;1
+IzRPRAzBj:9fS60N3AJ52G0
+R3
+R0
+w1734146066
+8../../../../lab8.srcs/sources_1/new/IM.v
+F../../../../lab8.srcs/sources_1/new/IM.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1734146071.000000
+R11
+R12
+!i113 0
+R8
+R1
+n@i@m
+vmips
+!s10a 1734144283
+R9
+!i10b 1
+!s100 `WQD]hWABEONYJP]I8eb`2
+Io^`BlI:zV_o2mTfNNQmfY2
+R3
+R0
+w1734144283
+8../../../../lab8.srcs/sources_1/new/mips.v
+F../../../../lab8.srcs/sources_1/new/mips.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R8
+R1
+vmips_test
+!s10a 1732596836
+R2
+!i10b 1
+!s100 fL:OiXmF]P];m@1e2YAb32
+I_m]6KCGTU>R5HoJFAP1O=2
+R3
+R0
+w1732596836
+8../../../../lab8.srcs/sim_1/new/mips_test.v
+F../../../../lab8.srcs/sim_1/new/mips_test.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vMUX2
+!s10a 1733903429
+R2
+!i10b 1
+!s100 BaYHnU=6b_QO_f_FzVAdk0
+I[gEQFUTfAmRo3NkRI>edf2
+R3
+R0
+w1733903429
+8../../../../lab8.srcs/sources_1/new/MUX2.v
+F../../../../lab8.srcs/sources_1/new/MUX2.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@m@u@x2
+vPC
+!s10a 1732589483
+R2
+!i10b 1
+!s100 okeVcSXKHg_joWGo=GS1h2
+I6F[cKW[@Rc=aR?Z7<Q_L;3
+R3
+R0
+w1732589483
+8../../../../lab8.srcs/sources_1/new/PC.v
+F../../../../lab8.srcs/sources_1/new/PC.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@p@c
+vRF
+!s10a 1732422681
+R2
+!i10b 1
+!s100 iPk:[:WVC4O:knf`85WLQ0
+IgQHb<4PLz9F@;z219_QH90
+R3
+R0
+w1732422681
+8../../../../lab8.srcs/sources_1/new/RF.v
+F../../../../lab8.srcs/sources_1/new/RF.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@r@f
+vRM_DEC
+!s10a 1734144217
+R9
+!i10b 1
+!s100 cPI`1eEcTZmRa1e[M<J]H1
+I:QWd@7BLOTYXKL;_FYi6J0
+R3
+R0
+w1734144217
+8../../../../lab8.srcs/sources_1/new/RM_DEC.v
+F../../../../lab8.srcs/sources_1/new/RM_DEC.v
+L0 3
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R8
+R1
+n@r@m_@d@e@c
